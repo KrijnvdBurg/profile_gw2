@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\pre-dexed\debug\classes-e73dc7e5a80c4700a90ec054e06482e111f3acc3.jar" />
+    </item>
+    <item
+        jar="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fc68bc26868641b7751efda3040f14ee8360840e.jar" />
+    </item>
+    <item
+        jar="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\pre-dexed\debug\classes-25736e54bf7cdefd937a2f4802de916e352cc3b3.jar" />
+    </item>
+    <item
+        jar="E:\Program files\Android SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3421974ca2a01c2312690c0eacf303abde4bdd10.jar" />
+    </item>
+    <item
+        jar="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="E:\Repository\profile_gw2\profile_gw2App\app\build\intermediates\pre-dexed\debug\classes-f0d0d3b62455181286a9a6dc9d865942b8f2be33.jar" />
+    </item>
+
+</items>
